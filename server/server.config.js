@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: `/aHR0cHM6Ly9naXRodWIuY29tL2hpZGVpcG5ldHdvcms=/`,
-    bare: `/bare/`,
+    bare: `/https://hide.247.hk/`,
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/server/server.handler.js',
